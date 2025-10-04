@@ -1,4 +1,4 @@
-name: deploy submarinediv
+name: deploy phoenixblind
 
 on:
   push:
