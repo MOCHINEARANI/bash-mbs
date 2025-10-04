@@ -1,4 +1,4 @@
-name: deploy union789
+name: deploy submarinediv
 
 on:
   push:
